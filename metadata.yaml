@@ -1,0 +1,43 @@
+_repo: The-Hidden-ForceA-Story-of-Modern-Java_34725
+_version: 0.1.0
+alternative_title: De stille kracht. English
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeira de
+    - De Mattos, Alexander Teixeira
+    - Teixeira de Mattos, Alexander Louis
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Louis_Couperus
+    - http://nl.wikipedia.org/wiki/Louis_Couperus
+description: ''
+gutenberg_issued: '2010-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Java (Indonesia) -- History -- 19th century -- Fiction'
+title: 'The Hidden Force: A Story of Modern Java'
+url: http://www.gutenberg.org/ebooks/34725
